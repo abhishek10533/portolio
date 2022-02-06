@@ -1,0 +1,135 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;1,700&family=Ubuntu:wght@400;500;700&display=swap');
+
+* {
+    margin: 0;
+}
+
+.outline {
+    width: 730px;
+    margin: auto;
+    border: 3px solid lightgrey;
+}
+
+.outer {
+    font-family: 'ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    width: 700px;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /* font-family: 'Ubuntu', sans-serif; */
+
+}
+
+.top {
+    display: flex;
+    /* margin: auto; */
+    width: 100%;
+    justify-content: space-between;
+
+}
+
+.topr {
+    margin: auto;
+    margin-right: 400px;
+
+}
+
+.line {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 20px;
+    background-color: lightgrey;
+    align-items: center;
+    border: 1px solid lightgrey;
+}
+
+.line h3 {
+    margin-top: 1px;
+    font-size: 15px;
+}
+
+.text {
+    margin: auto;
+    width: 95%;
+    text-align: justify;
+
+}
+
+.textl {
+    text-align: justify;
+    width: 18%;
+    margin: auto;
+}
+
+.textr {
+    width: 75%;
+}
+
+.alignlr,
+.alignlr1 {
+    display: flex;
+    margin: auto;
+    /* justify-content: space-between; */
+}
+
+.break {
+    margin: auto;
+    height: 2px;
+    background-color: lightgrey;
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.tablediv table,
+th,
+td {
+    border: 1px solid lightgrey;
+    border-collapse: collapse;
+}
+
+.tablediv table {
+    text-align: center;
+    width: 95%;
+    margin: auto;
+
+}
+
+.textm {
+    width: 2%;
+}
+
+.textl1 {
+    margin-left: 2.5%;
+    width: 18%;
+}
+
+.textr1 {
+    margin: auto;
+    width: 75%;
+}
+
+.heading {
+    margin-left: 5px;
+}
+
+.topl img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 3px solid lightgrey;
+    /* margin-right: 20px; */
+}
+
+li {
+    margin: auto;
+    width: 95%;
+}
+
+h4 {
+    font-size: 15px;
+}
